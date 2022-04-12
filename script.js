@@ -1,7 +1,7 @@
 var i = 0; //sart point
 // const Images = document.querySelector('.img-container');
 var images = [];
-var time = 4000;
+var time = 3000;
 
 images[1] ='./images/img1.JPG'
 images[0] ='./images/img2.JPG'
